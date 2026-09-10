@@ -2,7 +2,7 @@
 <img width="985" height="742" alt="DK Home" src="https://github.com/user-attachments/files/32062619/Nouveau.Image.bitmap.bmp" />
 ## Install
 
-1. Download the `.rtz` file.
+1. Download the `.rtz` file from the [latest release](../../releases/latest).
 2. Copy it to `%LOCALAPPDATA%\DK64Recompiled\mods`.
 3. Start or restart Recompiled.
 
